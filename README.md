@@ -7,4 +7,5 @@ Lua file that implements a bunch of standard repl commands, along with instructi
     * alias th="th -l 'basic_commands'"
 
 I also like to add this alias so that I can add commands as I want them.
+
     * alias thrc="vim path-to-commands-file/basic_commands.lua"
